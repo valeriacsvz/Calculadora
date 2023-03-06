@@ -32,4 +32,4 @@ En JavaScript:
 Aprender el funcionamiento en conjunto de HTML5 y JS con el objetivo de crear una interfaz interactiva para los usarios. 
 
 ## 4. Link a Demo 
-Aquí puedes visualizar mi proyecto terminado: [Calculadora](https://google-clonacion02.netlify.app/](https://calculadora-matematica.netlify.app/)
+Aquí puedes visualizar mi proyecto terminado: [Calculadora](https://calculadora-matematica.netlify.app/)
